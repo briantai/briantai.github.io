@@ -436,11 +436,23 @@ margin: 0px;
 /*parlex*/
 .bg-parlex {
 padding-top: 0px;
-background-image: url('../images/steve.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
 }
+
+.steve {
+background-image: url('../images/steve.jpg');
+}
+
+.reflexion {
+background-image: url('../images/reflexion.png');
+}
+
+.playstation {
+background-image: url('../images/playstation.jpg');
+}
+
 .parlex-back {
 padding: 30px 0;
 background-color: rgba(0, 0, 0, 0.37);
